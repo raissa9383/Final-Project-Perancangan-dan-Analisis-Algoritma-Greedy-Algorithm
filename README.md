@@ -1,10 +1,12 @@
 # Final-Project-Perancangan-dan-Analisis-Algoritma-Greedy-Algorithm
 Tingkatkan Gizi dengan Algoritma Greedy Pilihan Modifikasi Resep Mie Instan Berdasarkan Bahan Tersedia
+
 Group Members :
 1. Laudya Sevila – 22343087
 2. Puti Raissa Razani – 22343065
 3. Shakilla Lioradika Putri– 22343073
 4. Wulan Ainiyyah Puteri – 22343078
+
 
 Abstract :
 
